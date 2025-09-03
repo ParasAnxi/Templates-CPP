@@ -26,15 +26,18 @@ using umii = unordered_map<int, int>;
 using umcvi = unordered_map<char, vi>;
 using umci = unordered_map<char, int>;
 #define pb push_back
+#define MAX_N 200001
+#define MAX_L 18
 #define MOD 1000000007
+#define INF 1000000000LL
 #define LMOD 1000000000000000007LL
 
 void solve() {
   
 }
 int main() {
-  //   freopen("input.txt", "r", stdin);
-  //   freopen("output.txt", "w", stdout);
+  // freopen("input.txt", "r", stdin);
+  // freopen("output.txt", "w", stdout);
   ios::sync_with_stdio(0);
   cin.tie(NULL);
   int t;
