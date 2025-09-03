@@ -19,8 +19,11 @@ using pis = pair<int, string>;
 using vs = vector<string>;
 using mii = map<int, int>;
 using mll = map<ll, ll>;
+using pli = pair<ll, int>;
 using umii = unordered_map<int, int>;
 using umcvi = unordered_map<char, vi>;
+using umsi = unordered_map<string, int>;
+using mivi = map<int, vi>;
 using umci = unordered_map<char, int>;
 #define pb push_back
 #define MOD 1000000007
